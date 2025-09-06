@@ -28,17 +28,22 @@
 
 ### User Profile
 
-<img width="1599" height="890" alt="Screenshot 2025-08-28 082930" src="https://github.com/user-attachments/assets/388a8480-3d0a-4297-8854-078bb5d19e7e" />
+<img width="2578" height="1788" alt="Screenshot 2025-09-06 at 1 50 51 PM" src="https://github.com/user-attachments/assets/9b6ca99e-3504-4a15-9932-536d298356ef" />
+<img width="2554" height="1746" alt="Screenshot 2025-09-06 at 3 25 07 PM" src="https://github.com/user-attachments/assets/b5c97d55-40dc-4d1f-9a48-6dbb0a51fdc2" />
+
+
 </br>
 </br>
 
 ### Home Page
 
-<img width="1630" height="1005" alt="Screenshot 2025-08-28 082858" src="https://github.com/user-attachments/assets/07c8853a-ec69-4686-8da2-9b8e2992c569" />
+<img width="3348" height="1670" alt="Screenshot 2025-09-06 at 2 01 50 PM" src="https://github.com/user-attachments/assets/20308a41-9c07-44fc-9148-c8d0ce8c0a13" />
+
 
 ### Community Sharing
 
-<img width="1631" height="961" alt="Screenshot 2025-08-28 082950" src="https://github.com/user-attachments/assets/3a3e3f1c-b13c-40f0-84db-e40737076926" />
+<img width="2998" height="1860" alt="Screenshot 2025-09-06 at 2 02 51 PM" src="https://github.com/user-attachments/assets/ef1c9f8f-c194-4e4f-98e7-5576b9ac3528" />
+
 
 
 
@@ -48,7 +53,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/RahulSingh044/Code-Smasher.git
+git clone https://github.com/RehanKhan99/Code_Smasher.git
 cd code-smasher
 ```
 ### 2. Install Dependencies
